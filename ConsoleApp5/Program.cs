@@ -1,4 +1,5 @@
-﻿int a = int.Parse(Console.ReadLine());
+﻿Console.WriteLine(args);
+int a = int.Parse(Console.ReadLine());
 switch (a)
 {
     case 1:
